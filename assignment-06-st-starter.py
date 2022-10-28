@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 # show the title
-st.title('Titanic App by Qige ')
+st.title('Titanic App by Qige Pang ')
 
 # read csv and show the dataframe
 df = pd.read_csv('train.csv')
